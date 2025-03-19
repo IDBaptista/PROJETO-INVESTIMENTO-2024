@@ -10,7 +10,7 @@ Foi desenvolvido em duplas e criamos a MaverickInvestments uma empresa que reali
 ## DESENVOLVIMENTO:
 ![print sejabemvindo](/static/assets/sejabemvindo.png)
 ![print nós](/static/assets/nós.png)
-![print seguranca](/static/assets/seguranca.png)
+![print seguranca](/static/assets/segurança.png)
 ![print comoinvestir](/static/assets/comoinvestir.png)
 ![print investimentos](/static/assets/investimentos.png)
 ![print simular](/static/assets/simular.png)
