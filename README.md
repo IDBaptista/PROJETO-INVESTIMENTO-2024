@@ -8,12 +8,12 @@ Foi desenvolvido em duplas e criamos a MaverickInvestments uma empresa que reali
 # IMAGENS, PARTICIPAÇÕES E LINKS
 
 ## DESENVOLVIMENTO:
-![print telainicial](/static/assets/sejabemvindo.png)
-![print telainicial](/static/assets/nós.png)
-![print telainicial](/static/assets/seguranca.png)
-![print telainicial](/static/assets/comoinvestir.png)
-![print telainicial](/static/assets/investimentos.png)
-![print telainicial](/static/assets/simular.png)
+![print sejabemvindo](/static/assets/sejabemvindo.png)
+![print nós](/static/assets/nós.png)
+![print seguranca](/static/assets/seguranca.png)
+![print comoinvestir](/static/assets/comoinvestir.png)
+![print investimentos](/static/assets/investimentos.png)
+![print simular](/static/assets/simular.png)
 
 
 
