@@ -1,5 +1,5 @@
 # PROJETO INVESTIMENTO - 2024
-O Projeto Investimento do curso Desenvolvimento de Sistemas (2° Sementre) foi uma prática nas linguagens PYTHON, HTML, CSS e uso do BANCO DE DADOS (SQLITE)
+O Projeto Investimento do curso Desenvolvimento de Sistemas (2° Semestre) foi uma prática nas linguagens PYTHON, HTML, CSS e uso do BANCO DE DADOS (SQLITE)
 
 # FINALIDADE
 Desenvolver a partir dos conhecimentos e pesquisas sobre PYTHON FLASK, HTML, CSS e SQLITE uma empresa fictícia de investimentos.
